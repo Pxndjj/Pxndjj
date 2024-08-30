@@ -10,6 +10,10 @@
 
 ###
 
+<p align="left">UX/UI designer</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
